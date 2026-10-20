@@ -4,7 +4,7 @@ I build tools that automate repetitive work 🔁. Python and JavaScript, with a 
 
 ## What I'm working on 🔨
 
-- **ABEL**: an artificial life and emergent systems simulation.
+- **ABEL**: a personal, distributed cognitive system — core + device nodes, TLS-authenticated protocol, PostgreSQL/Qdrant memory, local LLM on demand.
 - **RRemotosAPP**: internal web app for an e-commerce business, integrated with the Mercado Libre API. (Private; public demo coming soon.)
 
 ## Stack 🎓
