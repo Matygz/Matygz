@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Matías
 
-<!--
-**Matygz/Matygz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build tools that automate repetitive work. Python and JavaScript, with a focus on API integrations and process optimization. Based in Buenos Aires, Argentina.
 
-Here are some ideas to get you started:
+## What I'm working on
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **ABEL**: an artificial life and emergent systems simulation.
+- **RRemotosAPP**: internal web app for an e-commerce business, integrated with the Mercado Libre API. (Private; public demo coming soon.)
+- **A personal management app** to replace my Notion setup, starting with personal finance.
+
+## Stack
+
+Python · JavaScript · HTML · CSS · JSON · REST APIs · Cloud deployment
+
+## Interests
+
+Process automation · Cybersecurity · Hardware and networking
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/matias-gonzalez22)
