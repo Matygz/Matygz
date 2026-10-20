@@ -2,16 +2,16 @@
 
 I build tools that automate repetitive work 🔁. Python and JavaScript, with a focus on API integrations and process optimization. Based in Buenos Aires, Argentina 📍.
 
-##What I'm working on 🔨
+## What I'm working on 🔨
 
-- **ABEL🤖**: an artificial life and emergent systems simulation.
-- **RRemotosAPP📝**: internal web app for an e-commerce business, integrated with the Mercado Libre API. (Private; public demo coming soon.)
+- **ABEL**: an artificial life and emergent systems simulation.
+- **RRemotosAPP**: internal web app for an e-commerce business, integrated with the Mercado Libre API. (Private; public demo coming soon.)
 
-## Stack
+## Stack 🎓
 
 Python · JavaScript · HTML · CSS · JSON · REST APIs · Cloud deployment
 
-## Interests
+## Interests 👀
 
 Process automation · Cybersecurity · Hardware and networking
 
