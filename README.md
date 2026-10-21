@@ -9,7 +9,7 @@ I build tools that automate repetitive work 🔁. Python and JavaScript, with a 
 
 ## Stack 🎓
 
-Python (asyncio) · JavaScript · REST APIs · WebSockets · PostgreSQL · SQLite · Qdrant · Docker · Git · HTML/CSS
+Python · JavaScript · REST APIs · WebSockets · PostgreSQL · SQLite · Qdrant · Docker · Git · HTML/CSS
 
 ## Interests 👀
 
